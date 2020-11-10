@@ -65,7 +65,7 @@ and Tekton Pipelines.
 
 ### Jupyter Requirements Management
 
-Jupyter tools focused on the Data Scientist workflow have been created to help them with dependencies management:
+Jupyter tools focused on the Data Scientist workflow have been created to help them with dependencies management with AI support:
 
 * Jupyter Notebook extension [jupyter-nbrequirements](https://github.com/thoth-station/jupyter-nbrequirements)
 
